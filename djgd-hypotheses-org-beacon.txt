@@ -1,0 +1,16 @@
+#FORMAT: BEACON
+#PREFIX: http://d-nb.info/gnd/
+#MESSAGE: Deutsch-jüdische Geschichte digital (ISSN 2363-6343)
+#DESCRIPTION: Beiträge rund um »deutsch-jüdische Geschichte« und die Nachbardisziplinen »Judaistik« und »Jüdische Studien« im Zusammenhang der Digital Humanities
+#INSTITUTION: Steinheim-Institut
+#CONTACT: Harald Lordick <+49(0)201-82162900>
+116117818||https://djgd.hypotheses.org/tag/lazarus-bendavid
+105905208||https://djgd.hypotheses.org/tag/soncino-gesellschaft
+101984759X||https://djgd.hypotheses.org/tag/moses-samuel-lowe
+116176288||https://djgd.hypotheses.org/tag/ludwig-philippson
+118586076||https://djgd.hypotheses.org/tag/salomo-friedlaender
+119453215||http://djgd.hypotheses.org/tag/bernhard-brilling
+1046473697||http://djgd.hypotheses.org/author/djgd
+1046474146||http://djgd.hypotheses.org/author/macdjgd
+
+
